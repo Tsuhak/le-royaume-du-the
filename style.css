@@ -97,3 +97,14 @@ header div {
     display: flex;
     justify-content: space-between;
 }
+
+/* BUSINESS */
+
+.business {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description_business {
+    width: 570px;
+}
